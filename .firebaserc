@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "first-angular-8ea77": {
+      "hosting": {
+        "first-app": [
+          "first-angular-8ea77"
+        ]
+      }
+    }
+  }
+}
